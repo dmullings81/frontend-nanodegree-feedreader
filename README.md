@@ -1,4 +1,25 @@
-# Project Overview
+# Feed Reader Testing
+
+This repository is a project for Udacity's Front-end Web Developer Nanodegree. I wrote a series of test suites for the behaviour-driven JavaScript testing framework, Jasmine, in order to test functionality of a provided Feed Reader app. Such a practice is fundamental to test-driven development.
+
+###Jasmine test spec author
+Dimitris Mullings
+
+##Usage
+
+To run the app you'll need to be connected to the Internet and have JavaScript enabled. Load the index.html. Jasmine spec results will appear at the bottom of the pages
+
+##License
+
+The contents of this repository are covered under the [MIT License](https://opensource.org/licenses/MIT).
+
+##Attributions
+https://discussions.udacity.com/t/new-feed-selection-question/16274
+https://www.cheatography.com/citguy/cheat-sheets/jasmine-js-testing/
+
+# Project Specifications
+
+## Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
 
