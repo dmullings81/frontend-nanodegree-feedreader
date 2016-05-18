@@ -1,6 +1,7 @@
 # Feed Reader Testing
 
 This repository is a project for Udacity's Front-end Web Developer Nanodegree. I wrote a series of test suites for the behaviour-driven JavaScript testing framework, Jasmine, in order to test functionality of a provided Feed Reader app. Such a practice is fundamental to test-driven development.
+Test including checking objects are defined, trigger events do what they are expected to and functions return the results expected. For fuller details on each spec, read the comments in jasmine/spec/feedreader.js.
 
 ###Jasmine test spec author
 Dimitris Mullings
